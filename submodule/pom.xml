@@ -6,7 +6,7 @@
   <parent>
     <groupId>gitflowtest</groupId>
     <artifactId>gitflowtest</artifactId>
-    <version>0.0.8-SNAPSHOT</version>
+    <version>0.0.8</version>
   </parent>
   
   <name>submodule for testing</name>
