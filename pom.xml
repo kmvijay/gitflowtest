@@ -3,7 +3,11 @@
   <groupId>gitflowtest</groupId>
   <artifactId>gitflowtest</artifactId>
   <packaging>pom</packaging>
+<<<<<<< HEAD
   <version>2.17.0</version>
+=======
+  <version>2.18.0</version>
+>>>>>>> release-2.18.0
   <name>gitflowtest</name>
   <description>Git Flow Test</description>
 
