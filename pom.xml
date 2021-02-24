@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gitflowtest</groupId>
   <artifactId>gitflowtest</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.7-SNAPSHOT</version>
   <name>gitflowtest</name>
   <description>Git Flow Test</description>
 
