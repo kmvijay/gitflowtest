@@ -2,7 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gitflowtest</groupId>
   <artifactId>gitflowtest</artifactId>
-  <version>0.0.7</version>
+  <packaging>pom</packaging>
+  <version>0.0.8</version>
   <name>gitflowtest</name>
   <description>Git Flow Test</description>
 
@@ -12,6 +13,10 @@
             <url>file:///C:/users/vijay/.m2/repository/</url>
         </repository>
     </distributionManagement>
+  
+      <modules>
+        <module>submodule</module>
+    </modules>
   
       <scm>
         <connection>scm:git:ssh://git@github.com/kmvijay/gitflowtest.git</connection>
