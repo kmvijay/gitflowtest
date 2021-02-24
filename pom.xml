@@ -3,7 +3,7 @@
   <groupId>gitflowtest</groupId>
   <artifactId>gitflowtest</artifactId>
   <packaging>pom</packaging>
-  <version>0.0.8-SNAPSHOT</version>
+  <version>0.0.8</version>
   <name>gitflowtest</name>
   <description>Git Flow Test</description>
 
