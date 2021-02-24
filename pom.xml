@@ -4,7 +4,7 @@
   <artifactId>gitflowtest</artifactId>
   <packaging>pom</packaging>
   <version>2.17.0</version>
-  
+
   <name>gitflowtest</name>
   <description>Git Flow Test</description>
 
